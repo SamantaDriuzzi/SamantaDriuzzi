@@ -1,7 +1,7 @@
 ![portadaREADME](https://github.com/SamantaDriuzzi/SamantaDriuzzi/blob/master/READMEportadaGif.gif)
 
 
-- 🌱 I’m currently learning [Desarrollo Web Full Stack en Argentina Programa 4.0](https://www.argentina.gob.ar/economia/conocimiento/argentina-programa) & (https://www.freecodecamp.org/learn)
+- 🌱 I’m currently learning [Desarrollo Web Full Stack en Argentina Programa 4.0](https://www.argentina.gob.ar/economia/conocimiento/argentina-programa) & [**freeCodeCamp**](https://www.freecodecamp.org/learn)
 
 - 🔭 I’m currently working on joint development of [CampConnet](https://github.com/conexionCampista)
 
