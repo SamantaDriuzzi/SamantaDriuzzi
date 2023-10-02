@@ -1,15 +1,14 @@
 ![portadaREADME](https://github.com/SamantaDriuzzi/SamantaDriuzzi/blob/master/READMEportadaGif.gif)
 
-
-- 🌱 I’m currently learning [Desarrollo Web Full Stack en Argentina Programa 4.0](https://www.argentina.gob.ar/economia/conocimiento/argentina-programa) & [**freeCodeCamp**](https://www.freecodecamp.org/learn)
+Hello! Welcome, it's nice to see you here! 🙋🏽‍♀️
 
 - 🔭 I’m currently working on joint development of [CampConnet](https://github.com/conexionCampista)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SamantaDriuzzi/PortFolio](https://github.com/SamantaDriuzzi/PortFolio)
+- 👨‍💻 All of my projects are available at [my portfolio(https://samanta-driuzzi.vercel.app/)
 
 - 📫 How to reach me: **driuzzi.samanta.mayra@gmail.com**
 
-- ⚡ Fun fact: **I consider myself multidisciplinary and constantly learning. Curiosity is my middle name. 😁**
+- ⚡ Fun fact: **I consider myself multidisciplinary and constantly learning. 😁**
 
 ---
 <h3 align="left">Languages and Tools:</h3>
