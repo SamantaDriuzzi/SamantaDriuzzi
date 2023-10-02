@@ -4,7 +4,7 @@ Hello! Welcome, it's nice to see you here! 🙋🏽‍♀️
 
 - 🔭 I’m currently working on joint development of [CampConnet](https://github.com/conexionCampista)
 
-- 👨‍💻 All of my projects are available at [my portfolio(https://samanta-driuzzi.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://samanta-driuzzi.vercel.app/)
 
 - 📫 How to reach me: **driuzzi.samanta.mayra@gmail.com**
 
