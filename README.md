@@ -2,7 +2,7 @@
 
 Hello! Welcome, it's nice to see you here! 🙋🏽‍♀️
 
-- 🔭 I’m currently working on joint Full Stack Teaching Assistent  [CampConnet](https://github.com/conexionCampista)
+- 🔭 I’m currently working Full Stack Teaching Assistent in [Henry](https://www.soyhenry.com/)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://samanta-driuzzi.vercel.app/)
 
